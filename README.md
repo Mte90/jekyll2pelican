@@ -1,4 +1,4 @@
-* Jekyll2Pelican
+# Jekyll2Pelican
 
     $ git clone https://github.com/Juev/jekyll2pelican.git
     $ cd jekyll2pelican
