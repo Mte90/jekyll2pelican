@@ -28,7 +28,7 @@ func main() {
 					data = strings.TrimRight(data, ", ")
 					data += "\n"
 				} else if k != "published" {
-					data += strings.Title(k) + ": " + v.(string) + "\n"
+					data += strings.Title(k) + ": " + fmt.Sprint(v) + "\n"
 				}
 			}
 		}
