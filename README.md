@@ -1,6 +1,8 @@
 # Jekyll2Pelican
 
-This is a fork that fix the project to work with the latest versions of Golang.
+This is a fork that fix the project to work with the latest versions of Golang.  
+Doesn't fix stuff like `<a href="{% link _posts/` in articles.
+
 
     $ git clone https://github.com/Juev/jekyll2pelican.git
     $ cd jekyll2pelican
